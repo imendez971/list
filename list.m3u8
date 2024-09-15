@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1, CANAL 2
+https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
+#EXTINF:-2, CANAL 4
+https://telecorporacion.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/.m3u8
+#EXTINF:-3, TIGO SPORT 
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index_4.m3u8?t=d7a3427ef6d1653ac08cb239f2b94fc802a0f1cf2833474541ba8d2cf344e487&s=2b06876735e1467cb1c7d0fc6af4e9a617261867447822c6b5906d23d11e784ca1287e169ddaf6XfKSkNatGLLIkhhlCIhO2&c=179.60.173.92&e=2024-09-13T00%3A19%3A19Z&v=4&u=2c6b5906-d23d-11e7-84ca-1287e169ddaf&em=ronaldnehe%40gmail.com&di=6ff92bcf41b4c16792b5a87aa79ceb12&cfi=6XfKSkNatGLLIkhhlCIhO2&q=em,di,cfi
+#EXTINF:-4, CANAL 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
+#EXTINF:-5, CANAL 10
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1706985991_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDQ6MTU6NTcgUE0maGFzaF92YWx1ZT01dzc2VWhlb21UOG9zMGxjYmV2Z1BBPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
+#EXTINF:-6, CANAL 11
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+#EXTINF:-7, CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-8, CANAL 17
+https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/chunklist_w994850518_DVR.m3u8
+#EXTINF:-9, CANAL 19
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:-10, CANAL 21
+https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+#EXTINF:-11, ESPN 1
+https://update8915.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8?token=d25b2accd0c46ee2d1e4d0e6c8bfe5b5e1ff2914-31-1726361825-1726325825
+#EXTINF:-12, ESPN PREMIUM
+https://xca5.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=5fa1bc35ceda4d73de448bd54200fc8e3fcfb1ce-6e-1726368601-1726332601
+#EXTINF:-13, ESPN 2
+https://obla.pricesaskeloadsc.com/espn2/tracks-v1a1/mono.m3u8?token=2fad34ec05db75e09dce64268bb303ee3ebe1d33-63-1726368868-1726332868
+#EXTINF:-14, ESPN 3
+https://vadp.pricesaskeloadsc.com/global/espn3/index.m3u8?token=cea9b8385f5e2574623a01f625bb223bc8850b09-14-1726369014-1726333014
+#EXTINF:-14, ESPN 3
+https://obla.pricesaskeloadsc.com/espn4/tracks-v1a1/mono.m3u8?token=5bcd3e54d12cce65c2ccd078e49cf64c40898272-55-1726369101-1726333101
+#EXTINF:-15, ESPN DEPORTES
+https://d2hpc3rszq.la10tv.com/espndeportes/tracks-v1a1/mono.m3u8?remote=179.60.173.183&token=22a158115ab3dcd73c39889e067c739a116809d5-2f2a8e00e4b9018f24f45d1d28a8c774-1726370038-1726334038
+#EXTINF:-16, DSPORTS 1 
+https://cad99.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=787ddb31364499999e5f275bff176540e787b08f-b6-1726367164-1726331164
+#EXTINF:-17, DSPORTS 2 
+https://cale.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=53ab51c40bdf9a7793d3c97d99a396f87af5ff02-59-1726368363-1726332363
+#EXTINF:-18, DSPORTS +++
+https://obla.pricesaskeloadsc.com/dsports_plus/tracks-v1a1/mono.m3u8?token=da665be64684419b65d4093263c797275720072c-2a-1726367995-1726331995
+#EXTINF:-19, ESPN DEPORTES
+https://d2hpc3rszq.la10tv.com/espndeportes/tracks-v1a1/mono.m3u8?remote=179.60.173.183&token=22a158115ab3dcd73c39889e067c739a116809d5-2f2a8e00e4b9018f24f45d1d28a8c774-1726370038-1726334038
+#EXTINF:-20, FOX SPORTS
+https://bcja.pricesaskeloadsc.com/foxsportsmx/tracks-v1a1/mono.m3u8?token=fb0f001a778f17b80868fe06951a162f9b516701-ac-1726389114-1726353114
+#EXTINF:-21, FOX SPORTS PREMIUM
+https://cos1.pricesaskeloadsc.com/foxsportspremium/tracks-v1a1/mono.m3u8?token=34470b48435a75d6d216e2956ebf66ad81e428c4-7f-1726388968-1726352968
+#EXTINF:-22, FOX SPORTS USA
+https://cad99.pricesaskeloadsc.com/fox_deportes_usa/tracks-v1a1/mono.m3u8?token=567d6d1837339e415fa3944d1a373cebd35d915e-cf-1726389949-1726353949
